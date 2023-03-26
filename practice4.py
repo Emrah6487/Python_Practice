@@ -15,7 +15,7 @@ y=[i for i in range(51,101) if i%2==1]
 print(x)
 print(y)
 
-#other method
+#other method :
 
 print(f"even number:{[i for i in range (1,11) if i %2==0]}")
 print(f"odds number:{[i for i in range (1,11) if i %2==1]}")
